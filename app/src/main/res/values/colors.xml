@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="exp3_t4_button_pressed">#35b5e6</color>
+    <color name="exp3_t4_title_initial">#dfdfdf</color>
+</resources>
